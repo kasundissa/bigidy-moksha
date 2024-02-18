@@ -97,6 +97,11 @@ background-color: #B3261E;
     height: 1141px;
 
 }
+
+.carousel-caption h2 {
+    font-family: Roboto;
+}
+
 /* End Header section */
 
 /*About section*/
@@ -489,6 +494,7 @@ background-color: #B3261E;
 
 .news_para {
 
+    font-family: Roboto;
     font-size:20px;
     text-align:center; 
     color:#FFFFFF; 
@@ -521,7 +527,12 @@ background-color: #B3261E;
 }
 
 .form-control {
+    font-family: Roboto;
     background-color: #000000;
+}
+
+.btn {
+    font-family: Roboto;
 }
 /* End Contact */
 
